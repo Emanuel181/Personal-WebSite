@@ -1,6 +1,7 @@
 body{
   background-color: #2D253A;
   margin: 0;
+  overflow-x: hidden;
 }
 
 .main-image{
@@ -92,7 +93,7 @@ h3{
 .cooperation{
     margin-bottom: 200px;
     position: relative;
-    left: 30px;
+    right: 162px;
 }
 
 .coop{
@@ -105,8 +106,8 @@ h3{
   width: 13%;
   float: right;
   position: relative;
-  right: 330px;
-  bottom: 50px;
+  right: 380px;
+  bottom: 70px;
 }
 
 
@@ -124,7 +125,7 @@ h3{
 
 .team-work{
   position: relative;
-  left: 230px;
+  left: 100px;
   margin-bottom: 200px;
 }
 
