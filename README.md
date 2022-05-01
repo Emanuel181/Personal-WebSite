@@ -7,7 +7,7 @@
 <br>
 <br>
 
-## How acces it <img height="52" width="52" src = "https://user-images.githubusercontent.com/92999481/166147080-e3baac9b-3d24-439d-aa7b-4eec7a59edc2.png">
+## How to acces it <img height="52" width="52" src = "https://user-images.githubusercontent.com/92999481/166147080-e3baac9b-3d24-439d-aa7b-4eec7a59edc2.png">
 
 **```[1]```** Search on Google for: **```emanuel161.github.io/website/```** <br>
 
